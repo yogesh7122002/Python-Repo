@@ -5,6 +5,6 @@
 
 
 def div(a,b):
-        return a/b;
+        return a/b
 c = div(8,2)
 print(c)
